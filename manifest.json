@@ -1,0 +1,12 @@
+{
+    "name": "Twitch Plays Cookie Clicker",
+    "description": "Chat Controls Cookie Clicker",
+    "version": "0.1",
+    "manifest_version": 2,
+    "content_scripts":[
+        {
+            "matches": ["https://orteil.dashnet.org/cookieclicker/"],
+            "js": ["tmi.min.js", "background.js", "functions.js"]
+        }
+    ]
+}

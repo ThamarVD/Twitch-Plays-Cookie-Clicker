@@ -1,0 +1,28 @@
+TwitchPlayCookieClicker Commands
+THERE ARE NO SYMBOLS IN FRONT OF ANY COMMANDS EXCEPT FOR !Commands
+
+Buying Commands:
+    Buy <Value> <Building Name>
+        -Values (No Custom Amounts):
+            -1
+            -10
+            -All
+    Buy 1 Upgrade
+    Buy All Upgrades
+
+Upgrade Command:
+    Upgrade <Building Name>
+        -Upgrade the building using sugar lumps
+
+Misc. Commands:
+    Shimmer Click/Golden Click
+        -Click on Golden Cookies or anything else that might pop up on screen (for example reindeer)
+    Scroll Up/Down <Section of Page>
+        -Sections:
+            -Center
+            -Store
+
+Future Updates:
+    -Adding Research
+    -Adding Legacy
+    -Festive Test-Tube
