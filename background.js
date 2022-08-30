@@ -2,7 +2,7 @@ smallSupport.remove();
 //techUpgrades.remove();
 
 const client = new tmi.Client({
-	channels: [ 'the_bromie', 'twitchplaycookieclicker' ]
+	channels: [ '<YOUR TWITCH USERNAME HERE>' ]
 });
 
 client.connect();
